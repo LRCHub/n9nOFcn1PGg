@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワールズエンドトリガー",
+  "base_artist": "青木陽菜",
+  "createdAt": "2026-03-15T14:42:29.946991Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールズエンドトリガー",
+      "artist": "青木陽菜",
+      "has_synced": false,
+      "path": "select/pl_01_ワールズエンドトリガー_青木陽菜.txt"
+    }
+  ]
+}
